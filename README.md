@@ -2,9 +2,9 @@
 
 Please do not fork or copy as this repo is only meant to be Soyoung's archive for her study. 
 
-# Course 1. Analyze Datasets and Train ML Models using AutoML
+# Course 1. [Analyze Datasets and Train ML Models using AutoML](https://www.coursera.org/learn/automl-datasets-ml-models/home/week/1)  
 
-## Week 1: [Explore the Use Case and Analyze the Dataset](https://www.coursera.org/learn/automl-datasets-ml-models/home/week/1)  
+## Week 1: Explore the Use Case and Analyze the Dataset
 Ingest, explore, and visualize a product review data set for multi-class text classification.  
 Practical Data Science  
 Use case and data set  
